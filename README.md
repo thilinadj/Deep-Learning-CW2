@@ -22,6 +22,7 @@ The following models are being trained and tested for this use case:
 
 Download and Access fine-tuned pretrained models on the fashion minst dataset:
 https://drive.google.com/drive/folders/19E9Xnavg4V17OtQVnoVRr4HgpIENDksf?usp=share_link
+https://huggingface.co/thilinadj/image_classification_tdj_fashion-mnist
 
 
 ## Technologies
